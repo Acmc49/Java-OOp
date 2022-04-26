@@ -13,11 +13,6 @@ public class ExampleUsingPreparedStatements {
 
         prep.deflation();
     }
-/**
- * hello world
- *
- * yu uyuy yugy u
- */
     public void deflation(){
         ArrayList<Ball> ball1 = getBalls();
         System.out.println("BEFORE DEFLATION");
